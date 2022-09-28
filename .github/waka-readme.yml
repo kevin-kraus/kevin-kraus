@@ -1,0 +1,17 @@
+name: Automatic README update
+
+on:
+  workflow_dispatch: # for manual workflow trigger
+  schedule:
+    - cron: '0 0 * * *' # runs at every 12AM UTC
+
+jobs:
+  update-readme:
+    name: Update Readme WakaTime Stats
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          COMMIT_MESSAGE: "Update WakaTime Stats"
+          TIME_RANGE: last_30_days

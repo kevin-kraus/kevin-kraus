@@ -2,8 +2,11 @@ name: Automatic README update
 
 on:
   workflow_dispatch: # for manual workflow trigger
+  push:
+    branches:
+      - master
   schedule:
-    - cron: '0 0 * * *' # runs at every 12AM UTC
+    - cron: '0 */4 * * *' # runs at every 12AM UTC
 
 jobs:
   update-readme:

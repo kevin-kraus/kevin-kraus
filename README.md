@@ -1,5 +1,6 @@
 ### Hi, I'm Kevin 👋🏻
 
+_This section will be completed by me in the next days._
 <!--
 **kevin-kraus/kevin-kraus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

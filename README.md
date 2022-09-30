@@ -21,7 +21,11 @@ _This section will be completed by me in the next days._
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   2 mins          █████████████████████████   100.00 %
+JavaScript   3 hrs 28 mins   ████████████████████▓░░░░   83.23 %
+Markdown     30 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.03 %
+Java         5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
+YAML         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
+Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
 ```
 
 <!--END_SECTION:waka-->

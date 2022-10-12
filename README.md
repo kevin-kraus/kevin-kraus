@@ -21,12 +21,12 @@ _This section will be completed by me in the next days._
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript       3 hrs 29 mins   ███████████▒░░░░░░░░░░░░░   45.80 %
-Java             1 hr 29 mins    █████░░░░░░░░░░░░░░░░░░░░   19.67 %
-TypeScript       1 hr 6 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   14.50 %
-Markdown         30 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.62 %
-YAML             25 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.60 %
-Other            10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
+Java                  4 hrs 12 mins   █████████▒░░░░░░░░░░░░░░░   37.22 %
+JavaScript            3 hrs 29 mins   ███████▓░░░░░░░░░░░░░░░░░   30.93 %
+TypeScript            1 hr 6 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.88 %
+YAML                  39 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.80 %
+Markdown              30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 %
+Other                 25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 %
 ```
 
 <!--END_SECTION:waka-->

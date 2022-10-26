@@ -21,10 +21,10 @@ _This section will be completed by me in the next days._
 <!--START_SECTION:waka-->
 
 ```text
-Java                  24 hrs 43 mins  ██████████████▓░░░░░░░░░░   58.39 %
-YAML                  3 hrs 50 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.08 %
-JavaScript            3 hrs 29 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 %
-Other                 2 hrs 45 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.53 %
+Java                  25 hrs 52 mins  ██████████████░░░░░░░░░░░   56.60 %
+YAML                  4 hrs 2 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.85 %
+JavaScript            3 hrs 29 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 %
+Other                 3 hrs 24 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 %
 ```
 
 <!--END_SECTION:waka-->

@@ -21,9 +21,9 @@ _This section will be completed by me in the next days._
 <!--START_SECTION:waka-->
 
 ```text
-Java                     29 hrs 23 mins  ███████████▒░░░░░░░░░░░░░   45.41 %
-Swift                    11 hrs 53 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.37 %
-Other                    8 hrs 18 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.84 %
+Java                     24 hrs 22 mins  ██████████▓░░░░░░░░░░░░░░   43.32 %
+Swift                    11 hrs 53 mins  █████▒░░░░░░░░░░░░░░░░░░░   21.14 %
+Other                    8 hrs 7 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.45 %
 ```
 
 <!--END_SECTION:waka-->

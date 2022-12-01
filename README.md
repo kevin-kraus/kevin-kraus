@@ -21,8 +21,8 @@ _This section will be completed by me in the next days._
 <!--START_SECTION:waka-->
 
 ```text
-Java                     30 hrs 40 mins  █████████▓░░░░░░░░░░░░░░░   38.52 %
-Other                    20 hrs 41 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.97 %
+Java                     30 hrs 41 mins  █████████▓░░░░░░░░░░░░░░░   38.07 %
+Other                    21 hrs 25 mins  ██████▓░░░░░░░░░░░░░░░░░░   26.58 %
 ```
 
 <!--END_SECTION:waka-->

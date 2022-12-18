@@ -21,7 +21,7 @@ _This section will be completed by me in the next days._
 <!--START_SECTION:waka-->
 
 ```text
-Other                 36 hrs 48 mins  ██████████▓░░░░░░░░░░░░░░   42.76 %
+Other            36 hrs 21 mins  ███████████░░░░░░░░░░░░░░   44.60 %
 ```
 
 <!--END_SECTION:waka-->

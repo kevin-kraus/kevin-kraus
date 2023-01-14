@@ -21,7 +21,8 @@ _This section will be completed by me in the next days._
 <!--START_SECTION:waka-->
 
 ```text
-Other                         16 hrs 20 mins  ███████▓░░░░░░░░░░░░░░░░░   31.11 %
+TypeScript                    12 hrs 27 mins  ████████▓░░░░░░░░░░░░░░░░   34.11 %
+Other                         7 hrs 17 mins   █████░░░░░░░░░░░░░░░░░░░░   19.98 %
 ```
 
 <!--END_SECTION:waka-->

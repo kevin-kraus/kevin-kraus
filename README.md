@@ -21,12 +21,12 @@ _This section will be completed by me in the next days._
 <!--START_SECTION:waka-->
 
 ```text
-Java             18 hrs 17 mins  ██████████████░░░░░░░░░░░   56.24 %
-YAML             7 hrs 23 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.73 %
-TypeScript       2 hrs 38 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 %
-JavaScript       1 hr 26 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 %
-XML              55 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
-Other            39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
+Java             19 hrs 7 mins   ██████████████▓░░░░░░░░░░   58.12 %
+YAML             7 hrs 28 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.73 %
+TypeScript       2 hrs 30 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 %
+XML              55 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
+JavaScript       49 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
+Properties       42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
 ```
 
 <!--END_SECTION:waka-->

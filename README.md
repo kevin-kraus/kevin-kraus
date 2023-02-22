@@ -21,9 +21,9 @@ _This section will be completed by me in the next days._
 <!--START_SECTION:waka-->
 
 ```text
-Java             14 hrs 59 mins  ███████████▒░░░░░░░░░░░░░   45.93 %
-YAML             6 hrs 55 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.21 %
-Go               5 hrs           ████░░░░░░░░░░░░░░░░░░░░░   15.34 %
+Java             14 hrs 59 mins  ███████████▒░░░░░░░░░░░░░   45.94 %
+YAML             6 hrs 54 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.18 %
+Go               5 hrs           ████░░░░░░░░░░░░░░░░░░░░░   15.35 %
 Bash             1 hr 11 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
 TypeScript       1 hr 6 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
 XML              57 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %

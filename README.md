@@ -21,11 +21,11 @@ _This section will be completed by me in the next days._
 <!--START_SECTION:waka-->
 
 ```text
-Other          9 hrs 58 mins   ████████░░░░░░░░░░░░░░░░░   31.89 %
-Java           8 hrs 37 mins   ███████░░░░░░░░░░░░░░░░░░   27.58 %
-TypeScript     4 hrs 24 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.07 %
-Bash           1 hr 55 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.17 %
-YAML           1 hr 44 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 %
+Java           5 hrs 14 mins   ███████░░░░░░░░░░░░░░░░░░   27.75 %
+Other          4 hrs 34 mins   ██████░░░░░░░░░░░░░░░░░░░   24.28 %
+TypeScript     2 hrs 49 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.00 %
+Bash           1 hr 53 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.00 %
+YAML           1 hr 12 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.36 %
 ```
 
 <!--END_SECTION:waka-->

@@ -20,12 +20,12 @@ _This section will be completed by me in the next days._
 
 <!--START_SECTION:waka-->
 
-```text
-Other          7 hrs 1 min     ███████▒░░░░░░░░░░░░░░░░░   29.78 %
-Terraform      5 hrs 7 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.70 %
-Java           3 hrs 40 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.57 %
-TypeScript     2 hrs 29 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.53 %
-Bash           1 hr 27 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 %
+```txt
+Other            8 hrs 9 mins    ██████████▒░░░░░░░░░░░░░░   41.08 %
+Terraform        5 hrs 7 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.76 %
+Java             3 hrs 15 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.37 %
+TypeScript       50 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 %
+YAML             34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
 ```
 
 <!--END_SECTION:waka-->

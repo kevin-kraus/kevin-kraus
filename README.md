@@ -21,11 +21,11 @@ _This section will be completed by me in the next days._
 <!--START_SECTION:waka-->
 
 ```txt
-Other            8 hrs 15 mins   ███████████▓░░░░░░░░░░░░░   46.96 %
-Terraform        5 hrs 7 mins    ███████▒░░░░░░░░░░░░░░░░░   29.12 %
-Java             1 hr 59 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.34 %
-TypeScript       32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
-XML              23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
+Other            8 hrs 15 mins   ███████████▓░░░░░░░░░░░░░   47.16 %
+Terraform        5 hrs 7 mins    ███████▒░░░░░░░░░░░░░░░░░   29.24 %
+Java             1 hr 59 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.39 %
+TypeScript       32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
+XML              23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
 ```
 
 <!--END_SECTION:waka-->

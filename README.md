@@ -21,10 +21,10 @@ _This section will be completed by me in the next days._
 <!--START_SECTION:waka-->
 
 ```txt
-Other            11 hrs 28 mins  ███████████▒░░░░░░░░░░░░░   45.29 %
+Other            11 hrs 28 mins  ███████████▒░░░░░░░░░░░░░   45.28 %
 Terraform        5 hrs 7 mins    █████░░░░░░░░░░░░░░░░░░░░   20.20 %
 Docker           2 hrs 2 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 %
-Java             1 hr 53 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 %
+Java             1 hr 53 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 %
 YAML             1 hr 46 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.03 %
 ```
 

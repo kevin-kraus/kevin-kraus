@@ -21,11 +21,11 @@ _This section will be completed by me in the next days._
 <!--START_SECTION:waka-->
 
 ```txt
-Other            14 hrs 30 mins  █████████▒░░░░░░░░░░░░░░░   37.63 %
-Java             5 hrs 16 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.67 %
-Terraform        5 hrs 7 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.28 %
-XML              4 hrs 27 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.57 %
-YAML             2 hrs 5 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.43 %
+Other            14 hrs 49 mins  █████████▒░░░░░░░░░░░░░░░   37.97 %
+Java             5 hrs 25 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.91 %
+Terraform        5 hrs 7 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.10 %
+XML              4 hrs 27 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.42 %
+YAML             2 hrs 7 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.43 %
 ```
 
 <!--END_SECTION:waka-->

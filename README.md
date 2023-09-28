@@ -21,11 +21,11 @@ _This section will be completed by me in the next days._
 <!--START_SECTION:waka-->
 
 ```txt
-Other             32 hrs 13 mins  ███████████░░░░░░░░░░░░░░   43.57 %
-Java              11 hrs 53 mins  ████░░░░░░░░░░░░░░░░░░░░░   16.07 %
-YAML              5 hrs 24 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.32 %
-Dart              4 hrs 22 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.91 %
-SQL               3 hrs 15 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 %
+Other             33 hrs 9 mins   ███████████▓░░░░░░░░░░░░░   46.05 %
+Java              12 hrs 23 mins  ████▒░░░░░░░░░░░░░░░░░░░░   17.21 %
+YAML              5 hrs 24 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 %
+Dart              4 hrs 22 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.07 %
+SQL               3 hrs 16 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
 ```
 
 <!--END_SECTION:waka-->

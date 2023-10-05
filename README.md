@@ -24,8 +24,8 @@ _This section will be completed by me in the next days._
 Other             25 hrs 40 mins  ███████████░░░░░░░░░░░░░░   44.24 %
 Java              12 hrs 50 mins  █████▓░░░░░░░░░░░░░░░░░░░   22.11 %
 Dart              4 hrs 22 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 %
-XML               3 hrs 19 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.72 %
-YAML              3 hrs 4 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.31 %
+XML               3 hrs 19 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 %
+YAML              3 hrs 4 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.30 %
 ```
 
 <!--END_SECTION:waka-->

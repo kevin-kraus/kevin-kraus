@@ -1,7 +1,17 @@
-### Hi, I'm Kevin 👋🏻
+<div style="width: 100%;">
+  <a href="https://github.com/kevin-kraus">
+    <img src="hello.svg" style="width: 100%;" alt="Click to see the source">
+  </a>
+</div>
 
-_This section will be completed by me in the next days._
+I am a 23 year old fullstack software engineer who is from Germany 🇩🇪.
 
+🔨 Currently I work for Global Side GmbH and develop a platform for the digitalization of German private health insurers.
+
+⌚️ In my spare time, I program smaller things and always try my hand at new technologies. 
+I am also very interested in cars 🚗, home automation 🏡, photography 📸 and everything else that has to do with technology ⚙️ or IT 🧑🏻‍💻.
+
+🧠 I'm currently learning (or interested to try out): Golang 🧑🏻‍💻, AWS ☁️
 
 --- 
 ## GitHub Stats

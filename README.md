@@ -7,6 +7,7 @@
 I am a 23 year old fullstack software engineer who is from Germany 🇩🇪.
 
 🔨 Currently I work for Global Side GmbH and develop a platform for the digitalization of German private health insurers.
+🧑🏻‍💻 There I code full-stack, mostly with Java, TypeScript and Spring Boot. I also currently take care of many of the deployment topics and the AWS infrastructure. I also try to automate as much manual work as possible.
 
 ⌚️ In my spare time, I program smaller things and always try my hand at new technologies. 
 I am also very interested in cars 🚗, home automation 🏡, photography 📸 and everything else that has to do with technology ⚙️ or IT 🧑🏻‍💻.

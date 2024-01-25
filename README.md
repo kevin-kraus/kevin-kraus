@@ -4,7 +4,7 @@
   </a>
 </div>
 
-I am a 23 year old fullstack software engineer who is from Germany 🇩🇪.
+I am a 24 year old fullstack software engineer who is from Germany 🇩🇪.
 
 🔨 Currently I work for Global Side GmbH and develop a platform for the digitalization of German private health insurers.
 

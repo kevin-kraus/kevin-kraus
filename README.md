@@ -13,7 +13,7 @@ I am a 24 year old fullstack software engineer who is from Germany 🇩🇪.
 ⌚️ In my spare time, I program smaller things and always try my hand at new technologies. 
 I am also very interested in cars 🚗, home automation 🏡, photography 📸 and everything else that has to do with technology ⚙️ or IT 🧑🏻‍💻.
 
-🧠 I'm currently learning (or interested to try out): Golang 🧑🏻‍💻, AWS ☁️
+🧠 I'm currently learning (or interested to try out): Terraform 🧑🏻‍💻, AWS ☁️
 
 --- 
 ## GitHub Stats

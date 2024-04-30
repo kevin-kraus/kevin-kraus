@@ -4,16 +4,15 @@
   </a>
 </div>
 
-I am a 24 year old fullstack software engineer who is from Germany 🇩🇪.
+I am a 24 year old fullstack software engineer from Germany 🇩🇪.
 
-🔨 Currently I work for Global Side GmbH and develop a platform for the digitalization of German private health insurers.
+🔨 Currently I work for Global Side GmbH and develop a platform for the digitalization of German private health insurances.
 
-🧑🏻‍💻 There I code full-stack, mostly with Java, TypeScript and Spring Boot. I also currently take care of many of the deployment topics and the AWS infrastructure. I also try to automate as much manual work as possible.
+🧑🏻‍💻 I code full-stack, mostly with Java, TypeScript and Spring Boot. I also do a lot of DevOps work with AWS. I also try to automate as much manual work as possible.
 
-⌚️ In my spare time, I program smaller things and always try my hand at new technologies. 
-I am also very interested in cars 🚗, home automation 🏡, photography 📸 and everything else that has to do with technology ⚙️ or IT 🧑🏻‍💻.
+⌚️ In my spare time, I code small things and always try to learn new technologies. 
 
-🧠 I'm currently learning (or interested to try out): Terraform 🧑🏻‍💻, AWS ☁️
+I am also very interested in cars 🚗, home automation 🏡, photography 📸 and anything else related to technology ⚙️ or IT 🧑🏻‍💻.
 
 --- 
 ## GitHub Stats

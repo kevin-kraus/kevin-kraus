@@ -4,7 +4,7 @@
   </a>
 </div>
 
-I am a 25 year old fullstack software engineer from Germany 🇩🇪.
+I am a 26 year old fullstack software engineer from Germany 🇩🇪.
 
 🔨 I'm currently working at [amplimind](https://github.com/amplimind), a joint venture powered by Audi & Lufthansa Industy Solutions as a Fullstack software engineer.
 

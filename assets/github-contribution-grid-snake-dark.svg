@@ -1,0 +1,11 @@
+<svg width="1100" height="170" viewBox="0 0 1100 170" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .title { font: 800 22px 'Segoe UI', Ubuntu, sans-serif; fill: #ffffff; }
+    .text { font: 500 16px 'Segoe UI', Ubuntu, sans-serif; fill: #8b949e; }
+    .code { font: 500 15px 'JetBrains Mono', 'Fira Code', monospace; fill: #7ee787; }
+  </style>
+  <rect x="1" y="1" width="1098" height="168" rx="22" fill="#0d1117" stroke="#30363d"/>
+  <text x="40" y="58" class="title">Contribution Snake</text>
+  <text x="40" y="92" class="text">Run the GitHub Action once to generate the animated contribution snake.</text>
+  <text x="40" y="126" class="code">$ Actions → Generate contribution snake → Run workflow</text>
+</svg>

@@ -1,0 +1,60 @@
+<svg width="1100" height="310" viewBox="0 0 1100 310" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1100" y2="310" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#070A0F"/>
+      <stop offset="0.56" stop-color="#0D1117"/>
+      <stop offset="1" stop-color="#17110B"/>
+    </linearGradient>
+    <linearGradient id="orange" x1="129" y1="60" x2="974" y2="259" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FF6700"/>
+      <stop offset="1" stop-color="#FFB000"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="18" result="blur"/>
+      <feColorMatrix in="blur" type="matrix" values="1 0 0 0 1  0 0.4 0 0 0.4  0 0 0 0 0  0 0 0 .55 0"/>
+      <feBlend in="SourceGraphic" mode="screen"/>
+    </filter>
+  </defs>
+
+  <rect width="1100" height="310" rx="28" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1098" height="308" rx="27" stroke="#30363D"/>
+
+  <circle cx="970" cy="52" r="150" fill="#FF6700" opacity="0.09" filter="url(#glow)"/>
+  <circle cx="170" cy="270" r="160" fill="#2F81F7" opacity="0.08"/>
+
+  <path d="M54 235 C172 145, 254 279, 374 184 S584 118, 692 193 S884 266, 1047 145" stroke="url(#orange)" stroke-width="2" opacity=".4"/>
+  <path d="M64 251 C184 172, 253 285, 380 202 S596 150, 704 211 S902 272, 1038 178" stroke="#30363D" stroke-width="1.5" opacity=".85"/>
+
+  <g opacity=".16">
+    <path d="M70 60H1040" stroke="#8B949E"/>
+    <path d="M70 105H1040" stroke="#8B949E"/>
+    <path d="M70 150H1040" stroke="#8B949E"/>
+    <path d="M70 195H1040" stroke="#8B949E"/>
+    <path d="M70 240H1040" stroke="#8B949E"/>
+    <path d="M135 35V275" stroke="#8B949E"/>
+    <path d="M265 35V275" stroke="#8B949E"/>
+    <path d="M395 35V275" stroke="#8B949E"/>
+    <path d="M525 35V275" stroke="#8B949E"/>
+    <path d="M655 35V275" stroke="#8B949E"/>
+    <path d="M785 35V275" stroke="#8B949E"/>
+    <path d="M915 35V275" stroke="#8B949E"/>
+  </g>
+
+  <g transform="translate(62, 48)">
+    <rect width="120" height="34" rx="17" fill="#161B22" stroke="#30363D"/>
+    <circle cx="22" cy="17" r="6" fill="#27C93F"/>
+    <text x="40" y="22" font-family="Segoe UI, Ubuntu, sans-serif" font-size="14" font-weight="700" fill="#C9D1D9">ONLINE</text>
+  </g>
+
+  <text x="62" y="137" font-family="Segoe UI, Ubuntu, sans-serif" font-size="52" font-weight="800" fill="#FFFFFF">Kevin Kraus</text>
+  <text x="64" y="177" font-family="JetBrains Mono, Fira Code, monospace" font-size="23" font-weight="500" fill="#FF8A2A">Software Developer · Builder · Automation Nerd</text>
+  <text x="64" y="217" font-family="Segoe UI, Ubuntu, sans-serif" font-size="20" font-weight="500" fill="#C9D1D9">clean APIs · sharp workflows · boring things automated</text>
+
+  <g transform="translate(815, 77)">
+    <rect width="214" height="146" rx="22" fill="#0D1117" stroke="#30363D"/>
+    <text x="24" y="42" font-family="JetBrains Mono, Fira Code, monospace" font-size="15" fill="#8B949E">$ kevin --mode</text>
+    <text x="24" y="73" font-family="JetBrains Mono, Fira Code, monospace" font-size="18" font-weight="700" fill="#7EE787">shipping</text>
+    <text x="24" y="105" font-family="JetBrains Mono, Fira Code, monospace" font-size="15" fill="#8B949E">$ vibe</text>
+    <text x="24" y="132" font-family="JetBrains Mono, Fira Code, monospace" font-size="18" font-weight="700" fill="#FF8A2A">premium chaos</text>
+  </g>
+</svg>

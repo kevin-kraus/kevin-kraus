@@ -1,0 +1,18 @@
+<svg width="1100" height="250" viewBox="0 0 1100 250" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .title { font: 800 28px 'Segoe UI', Ubuntu, sans-serif; fill: #ffffff; }
+    .label { font: 700 13px 'Segoe UI', Ubuntu, sans-serif; fill: #8b949e; letter-spacing: .09em; }
+    .value { font: 600 20px 'Segoe UI', Ubuntu, sans-serif; fill: #c9d1d9; }
+    .code { font: 500 15px 'JetBrains Mono', 'Fira Code', monospace; fill: #7ee787; }
+  </style>
+  <rect x="1" y="1" width="1098" height="248" rx="22" fill="#0d1117" stroke="#30363d"/>
+  <circle cx="36" cy="34" r="6" fill="#ff5f56"/>
+  <circle cx="58" cy="34" r="6" fill="#ffbd2e"/>
+  <circle cx="80" cy="34" r="6" fill="#27c93f"/>
+  <text x="40" y="84" class="title">Kevin's Dev Pulse</text>
+  <text x="40" y="119" class="code">$ github sync pending...</text>
+  <text x="40" y="165" class="label">STACK SIGNALS</text>
+  <text x="40" y="196" class="value">Java · TypeScript · AWS · Automation</text>
+  <text x="590" y="165" class="label">STATUS</text>
+  <text x="590" y="196" class="value">Ready to generate via GitHub Action</text>
+</svg>
